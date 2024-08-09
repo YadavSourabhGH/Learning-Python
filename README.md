@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/YadavSourabhGH/YadavSourabhGH/main/github%20banner.png)
 # Sourabh Yadav's Python Learning Journey
 
 Hi there! I'm Sourabh Yadav, and I'm on a passionate journey to master the power of Python. This repository chronicles my learning path, guided by my AI bot companion, Sourabh (a Discord bot yet to be launched).
