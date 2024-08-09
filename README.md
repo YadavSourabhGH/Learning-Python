@@ -5,7 +5,7 @@ Hi there! I'm Sourabh Yadav, and I'm on a passionate journey to master the power
 
 **Connect with me:**
 
-* **Community:** Join our vibrant community for Python enthusiasts!  
+* **Community:** Join our vibrant community for Coding And Tech enthusiasts!  
   [Link to WhatsApp Group](https://chat.whatsapp.com/BkRFVG0XRgGJzBOgnPPfa2) (200 members required for Discord server launch)
 * **LinkedIn:** Stay updated on my professional endeavors!  
   [LinkedIn profile URL](https://linkedin.com/in/yadavsourabh)
