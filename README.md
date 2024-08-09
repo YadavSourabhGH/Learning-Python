@@ -10,8 +10,10 @@ Hi there! I'm Sourabh Yadav, and I'm on a passionate journey to master the power
   [LinkedIn profile URL](https://linkedin.com/in/yadavsourabh)
 * **GitHub:** Explore my code and contributions!  
   [GitHub profile URL](https://github.com/YadavSourabhGH)
-* **X:** (Coming soon) Stay tuned for more!  
-  [Link to X profile (optional)](https://x.com/yadavsourabh)  **My AI Mentor - Sourabh (Discord Bot - Coming Soon)**
+* **X:** Stay tuned for more!  
+  [Link to X profile](https://x.com/yadavsourabhX)
+
+   **My AI Mentor - Sourabh (Discord Bot - Coming Soon)**
 
 Sourabh is my in-development Discord bot designed to be a helpful companion on my Python learning adventure. He'll provide guidance, answer questions, and offer support throughout my journey. Be sure to keep an eye out for his launch! (Join the WhatsApp community for updates.)
 
